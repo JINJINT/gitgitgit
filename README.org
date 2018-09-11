@@ -22,10 +22,13 @@ and Git Bash for Windows. The second stage sticks mostly
 to the same commands, but has some optional parts that
 use some others as well.
 
+<<<<<<< HEAD
 * Errata
 
   So far so good! We'll keep you posted if any come up.
 
+=======
+>>>>>>> 6a51c38b643d11bd2d2c9924704c05d0f7199f84
 * First Step
 
   Clone the repository [[https://github.com/36-750/git-challenge-1]]
@@ -71,6 +74,10 @@ use some others as well.
       (for instance "abcgxyz" and "uvw8" would be joined into
       "abcgxyzuvw8"). This is the password for the PDF file.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6a51c38b643d11bd2d2c9924704c05d0f7199f84
 * Resources 
 
   + Inspecting Logs and Status: https://www.atlassian.com/git/tutorials/inspecting-a-repository

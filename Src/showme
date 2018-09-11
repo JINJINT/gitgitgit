@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 echo "Live long and prosper"
+=======
+The plan is to devise an algorithm that displays
+the data effectively and elegantly.
+>>>>>>> 6a51c38b643d11bd2d2c9924704c05d0f7199f84

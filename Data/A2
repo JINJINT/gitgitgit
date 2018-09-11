@@ -1,4 +1,7 @@
 # script part 2
+<<<<<<< HEAD
 echo "Unfortunately, no one can be…told what the Matrix is. You have to see it for yourself." > Info/CG6
 echo "Red pill or blue pill?" >> Info/CG6
 
+=======
+>>>>>>> 6a51c38b643d11bd2d2c9924704c05d0f7199f84

@@ -1,5 +1,8 @@
 # script part 3
+<<<<<<< HEAD
 
 perl -i -pe 's|________|Info/CG2|' Data/CG5
 perl -i -pe 's|______|carina|' Data/UR
 echo "The palimpsest has been overwritten."
+=======
+>>>>>>> 6a51c38b643d11bd2d2c9924704c05d0f7199f84

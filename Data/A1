@@ -1,4 +1,7 @@
 # script part 1
+<<<<<<< HEAD
 echo "" >> Data/CG1
 echo "# Generate random crap" >> Data/CG1
 
+=======
+>>>>>>> 6a51c38b643d11bd2d2c9924704c05d0f7199f84
